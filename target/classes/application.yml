@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    username: root
-    password: 1qw@#eR$
-    url: jdbc:mysql://114.116.254.73:3306/note_words
-    driver-class-name: com.mysql.cj.jdbc.Driver
